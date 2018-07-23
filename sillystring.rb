@@ -8,4 +8,4 @@ puts "supercalifragilisticexpialidocious".length
 puts "wow + mom"
 
 "i really like programming".capitalize
-puts "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!".gsub('a','o')
+puts "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!".gsub('a','o').gsub('A','O')
